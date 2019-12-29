@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/ernomr/portfolio.git/static/css/main.d1b05096.chunk.css",
-    "main.js": "/ernomr/portfolio.git/static/js/main.162e3b14.chunk.js",
-    "main.js.map": "/ernomr/portfolio.git/static/js/main.162e3b14.chunk.js.map",
-    "runtime-main.js": "/ernomr/portfolio.git/static/js/runtime-main.c19621a5.js",
-    "runtime-main.js.map": "/ernomr/portfolio.git/static/js/runtime-main.c19621a5.js.map",
-    "static/js/2.88bb4907.chunk.js": "/ernomr/portfolio.git/static/js/2.88bb4907.chunk.js",
-    "static/js/2.88bb4907.chunk.js.map": "/ernomr/portfolio.git/static/js/2.88bb4907.chunk.js.map",
-    "index.html": "/ernomr/portfolio.git/index.html",
-    "precache-manifest.30b3656ca5f619cabb3523fa80345cf9.js": "/ernomr/portfolio.git/precache-manifest.30b3656ca5f619cabb3523fa80345cf9.js",
-    "service-worker.js": "/ernomr/portfolio.git/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/ernomr/portfolio.git/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.88bb4907.chunk.js.LICENSE": "/ernomr/portfolio.git/static/js/2.88bb4907.chunk.js.LICENSE",
-    "static/media/logo.svg": "/ernomr/portfolio.git/static/media/logo.5d5d9eef.svg"
+    "main.css": "./static/css/main.d1b05096.chunk.css",
+    "main.js": "./static/js/main.cbb3cb97.chunk.js",
+    "main.js.map": "./static/js/main.cbb3cb97.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.72eabc76.js",
+    "runtime-main.js.map": "./static/js/runtime-main.72eabc76.js.map",
+    "static/js/2.88bb4907.chunk.js": "./static/js/2.88bb4907.chunk.js",
+    "static/js/2.88bb4907.chunk.js.map": "./static/js/2.88bb4907.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.ae47b7bc24f869f39256d325747a33c3.js": "./precache-manifest.ae47b7bc24f869f39256d325747a33c3.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "./static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.88bb4907.chunk.js.LICENSE": "./static/js/2.88bb4907.chunk.js.LICENSE",
+    "static/media/logo.svg": "./static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c19621a5.js",
+    "static/js/runtime-main.72eabc76.js",
     "static/js/2.88bb4907.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.162e3b14.chunk.js"
+    "static/js/main.cbb3cb97.chunk.js"
   ]
 }
